@@ -1,8 +1,7 @@
 # 📊 7-Day SQL Learning Plan (Beginner to Intermediate)
 
-## ✅ Overview
-This plan helps you learn SQL from scratch. Each day includes concepts, practice goals, and suggested platforms/tools.
 
+this is updated
 ---
 
 ## 📅 Day 1: Introduction to Databases & SQL Basics
