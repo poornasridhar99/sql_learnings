@@ -1,1 +1,1 @@
-# sql_learnings
+i will learn sql and upload my learnings here
